@@ -7,4 +7,3 @@ Cette semaine :
 
 * J'ai passé avec succès l'ensemble du parcours HTML/CSS sur CODECADEMY / Voir les badges sur [mon profil CodeCademy](https://www.codecademy.com/fr/users/ftilliere/achievements)
 
-Je suis un peu à la bourre mais mon CV arrive ;-)
